@@ -1,6 +1,5 @@
 ### 💂 About Me :
-  My name is Mina Samir<br/>
-  I'm a front-end developer and on my way to becoming a full-stack developer,<br/>
+  My name is Mina Samir you can call me Munie, I'm a front-end developer<br/>
   Here in the near future I will share with you<br/>
   Some of my simple projects.
 
