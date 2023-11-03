@@ -11,6 +11,3 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" title="Tailwind" alt="Tailwind "width="40" height="40"/>&nbsp;
 </div>
-
-### 🔗 Links :
-  [<img width="25" height="25" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg">](https://instagram.com/munie_i)
