@@ -1,7 +1,6 @@
 ### 💂 About Me :
-  My name is Mina Samir (you can call me munie)<br/>
-  I'm a front-end developer, Here in the near future I will share with you<br/>
-  Some of my simple projects.
+  Hey folks, my name's Mina and I'm a front-end developer<br />
+  \*that's all :)*
   
 ### 👨‍💻 Technologies that I use :
 <div>
